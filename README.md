@@ -1,3 +1,5 @@
+# EventBookin
+
 # Event Booking App
 
 A React Native app for booking events.
@@ -19,11 +21,7 @@ A React Native app for booking events.
 
 2. **Installation:**
 
-   Clone the repository:
-
-   ```bash
-   git clone https://github.com/arwaabdulalim/EventBooking
-   ```
+   Clone the repository: https://github.com/arwaabdulalim/EventBooking
 
 ## Running the App
 
